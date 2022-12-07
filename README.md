@@ -3,11 +3,11 @@
 - 👀 I’m interested in developing and integrating computational methods
 - 🌱 I’m currently learning applications of machine learning approaches in personalised medicine
 - 💞️ I’m looking to collaborate works there involves a role of bioinformatician
-- 📫 You can reach me at: snijesh@gmail.com ...
+- 📫 You can reach me at: [snijesh@gmail.com](snijesh@gmail.com)
 
-Learn more about me at my snijesh (https://github.com/snijesh)
+Learn more about me at my [snijesh](https://scholar.google.co.in/citations?user=jolm12MAAAAJ&hl)
 
-snijeshvp/README.md
+Alternate account: [SNIJESH](https://github.com/snijesh)
 
 
 <!---
