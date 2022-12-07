@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate works there involves a role of bioinformatician
 - 📫 You can reach me at: [snijesh@gmail.com](snijesh@gmail.com)
 
-Learn more about me at my [snijesh](https://scholar.google.co.in/citations?user=jolm12MAAAAJ&hl)
+Learn more about me at my : [Google Scholar](https://scholar.google.co.in/citations?user=jolm12MAAAAJ&hl)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ResearchGate](https://www.researchgate.net/profile/Snijesh-Vp)
 
 Alternate account: [SNIJESH](https://github.com/snijesh)
 
