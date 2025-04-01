@@ -10,7 +10,7 @@ Learn more about me at my : [Google Scholar](https://scholar.google.co.in/citati
 
 Alternate account: [SNIJESH](https://github.com/snijesh)
 
-![Visitor Count](https://profile-counter.glitch.me/snijesh/count.svg)
+<!---![Visitor Count](https://profile-counter.glitch.me/snijesh/count.svg)--->
 
 <!---
 snijeshvp/snijeshvp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
